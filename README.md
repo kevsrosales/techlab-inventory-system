@@ -21,8 +21,13 @@ Validaciones Avanzadas: Clase utilitaria centralizada para garantizar la integri
 
 El sistema está organizado en paquetes según su responsabilidad para asegurar la escalabilidad:
 model: Jerarquía de clases con herencia y polimorfismo (Articulo, ArticuloElectronico, ArticuloAlimenticio, Categoria)
+
 .repository: Capa de persistencia en memoria usando tipos genéricos
+
 .menu: Interfaz de usuario por consola con limpieza de pantalla mediante códigos ANSI
+
 .interfaces: Contratos para comportamiento común (Calculable, Identificable)
+
 .utils: Herramientas transversales de validación y secuencias
+
 .
