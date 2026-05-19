@@ -1,4 +1,5 @@
 TechLab Inventory System 🚀
+
 Sistema modular de gestión de inventario desarrollado en Java
 . Este proyecto aplica conceptos avanzados de Programación Orientada a Objetos (POO) y una arquitectura desacoplada por responsabilidades
 .
