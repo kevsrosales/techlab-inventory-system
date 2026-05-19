@@ -5,6 +5,7 @@ Sistema modular de gestión de inventario desarrollado en Java
 .
 
 ✨ Características Principales
+
 CRUD Modular: Gestión completa de Artículos y Categorías con menús independientes
 .
 
@@ -17,6 +18,7 @@ Validaciones Avanzadas: Clase utilitaria centralizada para garantizar la integri
 .
 
 🏗️ Arquitectura y Tecnologías
+
 El sistema está organizado en paquetes según su responsabilidad para asegurar la escalabilidad
 :
 
